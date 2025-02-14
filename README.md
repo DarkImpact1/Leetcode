@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DarkImpact1/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/DarkImpact1/Leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -34,8 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DarkImpact1/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/DarkImpact1/Leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DarkImpact1/Leetcode/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/DarkImpact1/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
