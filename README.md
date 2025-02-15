@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DarkImpact1/Leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/DarkImpact1/Leetcode/tree/master/0115-distinct-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DarkImpact1/Leetcode/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/DarkImpact1/Leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
