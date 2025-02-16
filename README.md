@@ -6,22 +6,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/DarkImpact1/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/DarkImpact1/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/DarkImpact1/Leetcode/tree/master/0115-distinct-subsequences) |
+## Hash Table
+|  |
+| ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
