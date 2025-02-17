@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarkImpact1/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/DarkImpact1/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarkImpact1/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarkImpact1/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/DarkImpact1/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarkImpact1/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
