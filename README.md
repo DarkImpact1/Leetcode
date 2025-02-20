@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DarkImpact1/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/DarkImpact1/Leetcode/tree/master/0136-single-number) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DarkImpact1/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/DarkImpact1/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DarkImpact1/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
