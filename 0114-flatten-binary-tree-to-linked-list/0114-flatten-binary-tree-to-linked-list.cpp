@@ -22,6 +22,5 @@ public:
         root->left = nullptr;
         prev = root;
 
-
     }
 };
