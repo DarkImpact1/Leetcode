@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/DarkImpact1/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/DarkImpact1/Leetcode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/DarkImpact1/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DarkImpact1/Leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DarkImpact1/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/DarkImpact1/Leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/DarkImpact1/Leetcode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/DarkImpact1/Leetcode/tree/master/0260-single-number-iii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DarkImpact1/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
@@ -143,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DarkImpact1/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DarkImpact1/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DarkImpact1/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
