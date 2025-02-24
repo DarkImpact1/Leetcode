@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DarkImpact1/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/DarkImpact1/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DarkImpact1/Leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/DarkImpact1/Leetcode/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DarkImpact1/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DarkImpact1/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/DarkImpact1/Leetcode/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/DarkImpact1/Leetcode/tree/master/0260-single-number-iii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DarkImpact1/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
