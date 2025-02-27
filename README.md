@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DarkImpact1/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/DarkImpact1/Leetcode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/DarkImpact1/Leetcode/tree/master/0260-single-number-iii) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DarkImpact1/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DarkImpact1/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/DarkImpact1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DarkImpact1/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/DarkImpact1/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DarkImpact1/Leetcode/tree/master/0037-sudoku-solver) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DarkImpact1/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
