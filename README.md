@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DarkImpact1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/DarkImpact1/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/DarkImpact1/Leetcode/tree/master/0136-single-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DarkImpact1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/DarkImpact1/Leetcode/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DarkImpact1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DarkImpact1/Leetcode/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DarkImpact1/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
