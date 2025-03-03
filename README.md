@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarkImpact1/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarkImpact1/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/DarkImpact1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/DarkImpact1/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/DarkImpact1/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/DarkImpact1/Leetcode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/DarkImpact1/Leetcode/tree/master/0260-single-number-iii) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/DarkImpact1/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DarkImpact1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DarkImpact1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/DarkImpact1/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Binary Search
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DarkImpact1/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
